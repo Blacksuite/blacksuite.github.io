@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blacksuite.github.io" resolutions="1x" timestamp="1491036602476">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blacksuite.github.io" resolutions="1x" timestamp="1491036982392">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3996345609" ref="index"/>
+    <file name="index.css" crc="3835428780" ref="index"/>
     <file name="about.css" crc="362523617" ref="about"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4191764209" seo="true" mt="1490943001000"/>
+    <file name="index.html" crc="3771409156" seo="true" mt="1491036602000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
@@ -17,6 +17,6 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:about"/>
     <file name="require.js" crc="4234670167" ref="index:about"/>
   </folder>
-  <file name="index.html" crc="3771409156" seo="true" mt="1491036417346" redirect="true"/>
+  <file name="index.html" crc="4247410025" seo="true" mt="1491036969978" redirect="true"/>
   <file name="about.html" crc="266546021" seo="true" mt="1491036544512" redirect="true"/>
 </manifest>

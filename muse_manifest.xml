@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blacksuite.github.io" resolutions="1x" timestamp="1491045725394">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blacksuite.github.io" resolutions="1x" timestamp="1491047064592">
   <folder name="css">
     <file name="site_global.css" crc="4289600661"/>
     <file name="index.css" crc="3862030744" ref="index"/>
@@ -14,6 +14,6 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:posts"/>
     <file name="require.js" crc="4234670167" ref="index:posts"/>
   </folder>
-  <file name="index.html" crc="422343805" seo="true" mt="1491045714045" redirect="true"/>
+  <file name="index.html" crc="4166807895" seo="true" mt="1491047054299" redirect="true"/>
   <file name="posts.html" crc="4107786972" seo="true" mt="1491045237360" redirect="true"/>
 </manifest>

@@ -1,0 +1,21 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blacksuite.github.io" resolutions="1x" timestamp="1491040139532">
+  <folder name="css">
+    <file name="site_global.css" crc="4289600661"/>
+    <file name="about.css" crc="3864664586" ref="about"/>
+    <file name="index.css" crc="3933222106" ref="index"/>
+    <file name="posts.css" crc="3769052460" ref="posts"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:posts"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:posts"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:posts"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about:posts"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:posts"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:posts"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:posts"/>
+    <file name="require.js" crc="4234670167" ref="index:about:posts"/>
+  </folder>
+  <file name="index.html" crc="423101299" seo="true" mt="1491040039648" redirect="true"/>
+  <file name="about.html" crc="4117377034" seo="true" mt="1491040050227" redirect="true"/>
+  <file name="posts.html" crc="263419087" seo="true" mt="1491039992180" redirect="true"/>
+</manifest>
